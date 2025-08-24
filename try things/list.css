@@ -1,4 +1,4 @@
-.head {
+t.head {
   height: 40px;
   width: 100%;
   
@@ -90,7 +90,7 @@ article {
     
 }
 body {
-    
+    height: 3000px;
 }
 ul {
     display: grid;
@@ -98,6 +98,7 @@ ul {
 
 
 }
+
 
 
 
