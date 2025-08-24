@@ -1,0 +1,57 @@
+.content {
+  margin-top: 60px;
+  padding-top: 30px;
+  padding-left: 30px;
+  
+  align-items: center;
+}
+.first {
+  width: 800px;
+  padding-left: 20px;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+}
+.content-first {
+  margin: 0px 40px 0px 40px;
+  align-self: center;
+}
+.h-one {
+}
+.tashasweb {
+  color: rgb(255, 7, 155);
+}
+.box-one {
+}
+.text-one {
+}
+.btn1 {
+  font-weight: 700;
+  
+  width: 100px;
+  
+  background-color: rgb(255, 7, 155);
+  color: white;
+  border: none;
+  padding: 5px 10px 5px 10px;
+  border-radius: 10px;
+}
+
+.logo {
+  margin: 0px 0px 0px 30px;
+}
+
+.second {
+  width: 850px;
+  padding-left: 20px;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+}
+.img-2 {
+  width: 260px;
+  height: 260px;
+  
+  margin: 0px 30px 0px 40px;
+}
+

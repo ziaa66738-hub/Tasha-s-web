@@ -1,0 +1,51 @@
+.main {
+  margin: 50px 10px 10px 10px;
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.htn {
+  font-weight: 700;
+}
+.notepad {
+  margin-top: 0px;
+  
+  color: rgb(255,7,155);
+  font-weight: 700;
+  
+}
+.notes {
+  height: 1000px;
+  width: 900px;
+  
+  text-align: top;
+  vertical-align: text-top;
+  vertical-align: top;
+  
+  font-family: 'Times New Roman', Times, serif;
+  
+  border: none;
+  background-color: #EFEFEF;
+  
+  cursor: pointer;
+}
+.notes:hover {
+  border-color: #CBCBCB;
+}
+.text {
+  margin-bottom: 5px;
+}
+
+.list {
+  margin: 0px;
+  padding: 2px 15px 2px 15px;
+  
+  background-color: rgb(255,7,155);
+  color: white;
+  
+  font-weight: 500;
+  font-size: 16px;
+  
+  border: none;
+  border-radius: 10px;
+}

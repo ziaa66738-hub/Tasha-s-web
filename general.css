@@ -1,0 +1,12 @@
+body {
+  margin: 0px;
+  font-family: Roboto, Ariel;
+}
+
+button:hover {
+  background-color: rgb(255, 106, 195);
+}
+
+button:active {
+  background-color:rgb(199, 26, 130);
+}
