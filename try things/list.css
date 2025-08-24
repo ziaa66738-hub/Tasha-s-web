@@ -9,13 +9,14 @@
   top: 0px;
   background-color: rgb(255, 7, 155);
   align-items: center;
-  margin: 0px 0px 20px 0px;
+  margin: 0px 0px 0px 0px;
   font-family: Roboto, Ariel;
   z-index: 100;
 }
 .hicon  {
   width: 25px;
   margin-left: 3px;
+  top: 5px;
 }
 .h {
   width: 150px;
@@ -97,5 +98,6 @@ ul {
 
 
 }
+
 
 
