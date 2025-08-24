@@ -81,13 +81,12 @@
 
 
 .item-list {
-    margin-top: 60px;
-    padding-top: 60px;
+  
     position: static;
 }
 article {
     position: static;
-    margin-top: 60px;
+    
 }
 body {
      margin-top: 60px;
@@ -98,3 +97,4 @@ ul {
 
 
 }
+
